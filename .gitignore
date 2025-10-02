@@ -4,6 +4,7 @@
 start_env.py
 tests/
 .venv/
+help_scripts/
 
 
 # Byte-compiled / optimized / DLL files
