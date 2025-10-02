@@ -1,0 +1,8 @@
+[tool.dg]
+directory_type = "workspace"
+
+[[workspace.projects]]
+path = "../projects/project-a"
+
+
+

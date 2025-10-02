@@ -1,0 +1,5 @@
+load_from:
+  - python_file:
+      relative_path: ../projects/project-a/src/project_a/definitions.py
+      executable_path: ../projects/project-a/.venv/bin/python
+      location_name: project_a
