@@ -1,4 +1,4 @@
-# my_project
+# dagster-template
 
 ## Getting started
 
